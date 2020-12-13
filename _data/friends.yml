@@ -1,9 +1,24 @@
-- name: KeJun
-  image: https://ooo.0o0.ooo/2017/05/26/5928368d409dd.png
-  url: https://kejun.me
-  describe: 二次元智障
+- name: 火狐和他的站
+  image: 
+  url: https://stray-soul.site/
+  describe: 3DS界最强(fan)大佬(yi)
 
 - name: MDUI
   image: 
   url: https://www.mdui.org/
   describe: 一套用于开发 Material Design 网页的前端框架
+  
+- name: Rintim
+  image: 
+  url: https://github.com/Rintim
+  describe: 没有他，这个站就建不起来
+
+- name: Forget
+  image: 
+  url: 
+  describe: 带指正家
+
+-name: 小五
+  image: 
+  url:
+  describe: 带恶人。
